@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on GAN and learning how to being investor
+I'm currently working on NLP and being to get graduated.
 
 
 # 💻 Tech Stack:
