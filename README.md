@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on NLP and being to get graduated.
+I am graduated from Kocaeli University with a second-class degree in Computer Engineering and third-class honors, and I also studied Software Engineering at Ecole 42 Kocaeli.
 
 
 # 💻 Tech Stack:
